@@ -10,6 +10,7 @@ var Main = React.createClass({
               <div>
                   <div>
                       <Nav></Nav>
+                      Main.jsx Rendered
                       {this.props.children}
                   </div>
               </div>
